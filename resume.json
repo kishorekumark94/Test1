@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "KISHORE KUMAR K",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "kishorekumark94@gmail.com",
+    "phone": "+91 8754514475",
+    "summary": "A highly focused Application Engineer constantly driven by a motivation to develop my skills and provide solutions to challenging problems in production Environment, Incident management, Deployment, Application maintenance and service requests handling.",
+    "location": {
+      "postalCode": "600082",
+      "city": "Chennai",
+      "countryCode": "INDIA",
+      "region": "Tamil Nadu"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Kishore Kumar",
+        "url": "https://www.linkedin.com/in/kishore-kumar-32742014b/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Xome",
+      "position": "Application Support Engineer",
+      "startDate": "2019-07-04",
+      "endDate": "2020-04-20",
+      "summary": "Xome is revolutionizing real estate. Through big data, a proprietary real estate exchange and national real estate services, Xome is the one stop shop for home sellers and buyers who want to save money and complete their transaction with the utmost confidence.",
+      "highlights": [
+        "Setting up a new Application support team and defining the process flow",
+        "Deploying packages using Octopus, Putty and Ansible in production and QA environments.",
+        "Using VMware and citrix machines. Logging into the VDI's and citrix servers and clearing the disk space issue",
+        "Using Solarwinds to check the status of the nodes",
+        "Monitoring the alerts using Moogsoft, New Relic and resolving them",
+        "Documentation of the new process or change to provide quick work around",
+        "Performed Ticket Audit. Motivate and teach the team necessary skills to handle a support project independently. Equip team to handle escalation calls",
+        "Being as shift lead and delivered a very precise shift handover and handled the issues among the team",
+        "Business reporting - Daily / weekly / monthly - Generating Reports requested by business",
+        "Coordinating the Incident Management calls and preparing reports."
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "position": "Senior System Engineer",
+      "startDate": "2016-07-10",
+      "endDate": "2019-07-02",
+      "summary": "Cognizant is Leading IT sector by providing the client the best support and smarter products",
+      "highlights": [
+        "The project uses Incident Management Tool, Service Now to track the incidents on the Production environment",
+        "Test and check the health of the systems round the clock. The operation tasks are performed in daily, weekly, monthly on a scheduled basis",
+        "To provide production support and maintenance for applications in Institutional and Individual line of business",
+        "Monitoring the distributed jobs/trails in IBM Tivoli Work job scheduler in Mastero (Tivoli) and Informatica workflow monitor",
+        "Providing the fix for batch job abends in Data Exchange Technology and Distributed Applications for issues related to file not available, Server connectivity, User Key not found, Server space issues, Encryption & Decryption Issues, Corrupt data",
+        "Working with different VDI's, Citrix servers and performing tasks/running scripts, queries & running jobs manually"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "PANIMALAR INSTITUE OF TECHNOLOGY",
+      "area": "ECE",
+      "startDate": "2011-08-04",
+      "endDate": "2015-05-10"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best performer Award",
+      "date": "2018-11-01",
+      "awarder": "Cognizant"
+    }
+  ],
+  "skills": [
+    {
+      "name": "TECHOLOGIES",
+      "keywords": [
+        "Informatica",
+        "Data Exchange Technologies",
+        "Distributed systems",
+        "Manual and Smoke Testing",
+        "Devops"
+      ]
+    },
+    {
+      "name": "TOOLS",
+      "keywords": [
+        "Citrix Presentation Server",
+        "Ansible",
+        "Putty",
+        "Jira",
+        "Solarwinds"
+      ]
+    }
+  ]
+}
